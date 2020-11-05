@@ -1,9 +1,8 @@
 ### Work in Progress ⚠️🚧
 
-Gradle is building ... 
-
+- 💻   I'm an Android Engineer
+- 📍 ✈️ I'm originally from Kenya 🇰🇪 but Germany 🇩🇪 is my new home.
 - ⚡ Fun fact: When I am not coding, I am looking for trails to ride. 🚵🏽‍♀️
-- 📫 How to reach me: Don't call me, I'll call you.
 
 <!--
 **kioko/kioko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
