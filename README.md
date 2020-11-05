@@ -1,7 +1,7 @@
 ### Work in Progress ⚠️🚧
 
-- 💻   I'm an Android Engineer
-- 📍 ✈️ I'm originally from Kenya 🇰🇪 but Germany 🇩🇪 is my new home.
+- 💻  I'm an Android Engineer
+- 📍 I'm originally from Kenya 🇰🇪 but Germany 🇩🇪 is my new home.
 - ⚡ Fun fact: When I am not coding, I am looking for trails to ride. 🚵🏽‍♀️
 
 <!--
