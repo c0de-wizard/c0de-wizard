@@ -1,6 +1,9 @@
 ### Work in Progress ⚠️🚧
 
 - 💻  I'm an Android Engineer
+- ⏳ I’m currently learning
+![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)
+![KMP](https://img.shields.io/badge/KMP-Kotlin%20Mutliplatform-%23B75EA4)
 - 📍 I'm originally from Kenya 🇰🇪 but Germany 🇩🇪 is my new home.
 - ⚡ Fun fact: When I am not coding, I am looking for trails to ride. 🚵🏽‍♀️
 
